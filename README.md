@@ -16,7 +16,7 @@ This is the network architecture of our proposed adaptive multi-level hypergraph
 
 This is the experiment visualization of our proposed AMHGCN in the scenario “smoking.” In the historical human motion sequence, the groundtruth is marked as magenta-black with a complete line. While at the predicted human motion sequence, the groundtruth is marked as magenta-black with a dashed line, while our prediction results are shown as blue-green with a complete line.
 
-#####![image](.github/Walking_dog.gif)
+![image](.github/Walking_dog.gif)
 
 This is the experiment visualization of our proposed AMHGCN in the scenario “walking together.” In the historical human motion sequence, the groundtruth is marked as magenta-black with a complete line. While at the predicted human motion sequence, the groundtruth is marked as magenta-black with a dashed line, while the comparative results are shown as blue-green with a complete line.
 
