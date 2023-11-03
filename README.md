@@ -1,7 +1,7 @@
 ## AMHGCN: Adaptive Multi-level Hypergraph Convolution Network for Human Motion Prediction
 This is the code for the paper
 
-Jinkai Li, Jinhua Wang, Lian Wu, Xin Wang, Xiaoling luo, Yong Xu
+Jinkai Li, Jinhua Wang, Lian Wu, Xin Wang, Xiaoling Luo, Yong Xu
 [_"AMHGCN: Adaptive Multi-level Hypergraph Convolution Network for Human Motion Prediction"_]. In Neural Networks (NN) 2023.
 
 ### Network Architecture
