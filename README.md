@@ -70,7 +70,7 @@ Put the all downloaded datasets in ./datasets directory.
 All the running args are defined in [opt.py](utils/opt.py). We use following commands to train on different datasets and representations.
 To train,
 ```bash
-python main_h36m_3d.py python train_H36M.py  --num 64  --reverse_weight 0.05
+python train_H36M.py  --num 64  --reverse_weight 0.05
 ```
 ```bash
 python main_cmu_mocap_3d.py --num 48  --reverse_weight 0.05
