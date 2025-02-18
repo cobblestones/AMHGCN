@@ -89,7 +89,15 @@ python test_H36M.py
 If you use our code, please cite our work
 
 ```
-
+@article{li2024amhgcn,
+  title={AMHGCN: Adaptive multi-level hypergraph convolution network for human motion prediction},
+  author={Li, Jinkai and Wang, Jinghua and Wu, Lian and Wang, Xin and Luo, Xiaoling and Xu, Yong},
+  journal={Neural Networks},
+  volume={172},
+  pages={106153},
+  year={2024},
+  publisher={Elsevier}
+}
 ```
 
 ### Acknowledgments
